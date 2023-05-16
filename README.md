@@ -1,1 +1,1 @@
-[![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=petlikarayanshow_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=petlikarayanshow_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
